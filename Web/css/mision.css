@@ -1,0 +1,23 @@
+#mision h3,h4{
+
+   text-align: center;
+
+  }   
+
+#mision .contenedor {
+     display: flex;
+     justify-content: center;
+     flex-wrap: wrap;
+   }
+
+#mision article {
+   margin: 15px;
+}
+
+#mision img {
+    width: 100%;
+    max-width: 280px;
+
+  }
+
+    

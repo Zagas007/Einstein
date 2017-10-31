@@ -1,0 +1,16 @@
+#conclusion {
+ background: #333;
+ color: #fff;
+ text-align: center;
+ 
+  }
+
+
+#conclusion .contenedor {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  }
+
+
